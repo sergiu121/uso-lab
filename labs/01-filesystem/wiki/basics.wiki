@@ -496,3 +496,5 @@ Pentru a vă asigura că ați înțeles cum se șterg fișierele și directoarel
     - Ștergeți toate fișierele ale căror nume conțin spații din directorul ''toddler-s\ bottle/bof/hard''.
     - Ștergeți toate fișierele cu extensia ''.txt'' din directorul ''toddler-s\ bottle/bof/easy''.
     - Folosind o singură comandă, ștergeți tot conținutul directorului ''basics''.
+
+Aceasta este o modificare în laborator
