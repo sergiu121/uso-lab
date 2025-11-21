@@ -498,3 +498,5 @@ Pentru a vă asigura că ați înțeles cum se șterg fișierele și directoarel
     - Folosind o singură comandă, ștergeți tot conținutul directorului ''basics''.
 
 Aceasta este o modificare în laborator
+
+Asteaste este o a doua modificare
